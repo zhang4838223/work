@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-18T11:54:09.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36" etag="GM3Ov8G3tFdSMsBiaYEO" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-18T11:55:19.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36" etag="aRY5ZxZlEDzwqcHMssBh" version="13.6.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2523" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -521,7 +521,7 @@
           <mxGeometry x="30" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_kYm_MKk06bkY_NFijVY-176" value="EWR_EXP_WAFER_GROUP" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1" treatAsSingle="0">
-          <mxGeometry x="1160" y="-620" width="300" height="250" as="geometry">
+          <mxGeometry x="1150" y="-750" width="300" height="250" as="geometry">
             <mxRectangle x="1170" y="-290" width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -699,7 +699,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_kYm_MKk06bkY_NFijVY-76" value="EWR_ASSIGN_LOT" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1" treatAsSingle="0">
-          <mxGeometry x="1162.5" y="-330" width="295" height="760" as="geometry">
+          <mxGeometry x="1152.5" y="-440" width="295" height="760" as="geometry">
             <mxRectangle x="395" y="530" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
