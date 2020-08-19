@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T00:37:43.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36" etag="_0ur4O-osTJIwhgz6RHE" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T02:01:45.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36" etag="TncEGJdpGPwG2CzmWB0g" version="13.6.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2523" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2512" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -386,8 +386,8 @@
             <mxPoint x="1600" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_kYm_MKk06bkY_NFijVY-76" value="EWR_ASSIGN_LOT" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1" treatAsSingle="0">
-          <mxGeometry x="1152.5" y="-440" width="295" height="760" as="geometry">
+        <mxCell id="_kYm_MKk06bkY_NFijVY-76" value="EWR_ASSIGN_LOT&#xa;(EPM_SRC_REQUEST)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1" treatAsSingle="0">
+          <mxGeometry x="1152.5" y="-460" width="295" height="780" as="geometry">
             <mxRectangle x="395" y="530" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
