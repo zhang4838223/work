@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T06:24:19.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36" etag="-xfmCkJLsZRgCW-pSKHm" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T08:17:39.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36" etag="tZOz7M7uHUN4ntWPcbSH" version="13.6.4" type="github">
   <diagram id="1Sy0_TXh9xAlmua2igls" name="Page-1">
     <mxGraphModel dx="1673" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -839,7 +839,7 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8hqIu6tpNmQfpGZRK0oC-276" value="EWR_EXPERIMENT_STEP_RANGE" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1" treatAsSingle="0">
-          <mxGeometry x="750" y="730" width="310" height="310" as="geometry">
+          <mxGeometry x="750" y="730" width="310" height="340" as="geometry">
             <mxRectangle x="440" y="760" width="240" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -922,6 +922,15 @@
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8hqIu6tpNmQfpGZRK0oC-303" value="END_STEP_DESC String" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="8hqIu6tpNmQfpGZRK0oC-301" vertex="1">
+          <mxGeometry x="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYympp35xAa7EPD4HPgj-16" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" treatAsSingle="0" parent="8hqIu6tpNmQfpGZRK0oC-276">
+          <mxGeometry y="300" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYympp35xAa7EPD4HPgj-17" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="HYympp35xAa7EPD4HPgj-16">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYympp35xAa7EPD4HPgj-18" value="REF_LOT String" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="HYympp35xAa7EPD4HPgj-16">
           <mxGeometry x="30" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8hqIu6tpNmQfpGZRK0oC-304" value="EWR_EXPERIMENT_SIGN_OFF" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1" treatAsSingle="0">
